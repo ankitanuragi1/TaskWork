@@ -4,7 +4,9 @@
 
 TaskWork is a simple task management application designed to help users organize their daily tasks and keep track of their progress. It provides an easy-to-use interface for managing tasks, monitoring completion status, and maintaining productivity.
 
+## Live Demo
 
+[View Live Demo](https://taskwork-phi.vercel.app)
 
 ## Preview
 
@@ -39,7 +41,7 @@ TaskWork is a simple task management application designed to help users organize
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ankitanuragi1/TaskWork.git
 ```
 
 Install dependencies:

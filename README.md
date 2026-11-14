@@ -18,6 +18,10 @@ TaskWork is a simple task management application designed to help users organize
 
 ![TaskWork Dashboard](./screenshots/dashboard.png)
 
+### Mobile Dashboard
+
+![TaskWork Dashboard](./screenshots/mobileDashboard.png)
+
 ## Features
 
 - Add, complete, and delete tasks
